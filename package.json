@@ -18,7 +18,7 @@
   "author": "Kanata You (GitHub: @AntoineYANG)",
   "license": "ISC",
   "files": [
-    "dist/styleinject"
+    "dist"
   ],
   "dependencies": {
     "csstype": "^3.0.5"
