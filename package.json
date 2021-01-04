@@ -2,7 +2,7 @@
   "name": "styleinject-y",
   "version": "1.0.2",
   "description": "Inject css rules in js/ts/react.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npm run dev",
