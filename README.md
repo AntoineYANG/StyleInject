@@ -1,4 +1,4 @@
-# StyleInject    ![](https://img.shields.io/badge/npm-v1.0.2-brightgreen)
+# StyleInject    ![](https://img.shields.io/badge/npm-v1.0.3-brightgreen)
 
 
 
