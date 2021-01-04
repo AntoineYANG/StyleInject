@@ -125,6 +125,12 @@ const styleinject = (selector: string, rules: Properties<string|number>, index: 
 };
 
 ```
+### 导入 Import
+
+* **npm**
+
+  `npm i -s styleinject-y`
+
 ### 实际使用 Example
 
 使用时，只需要给组件的渲染内容加上 `className`，然后在组件文件中直接调用此方法，加入对应样式规则即可。
