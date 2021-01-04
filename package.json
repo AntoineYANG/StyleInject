@@ -1,5 +1,5 @@
 {
-  "name": "styleinject",
+  "name": "styleinject-y",
   "version": "1.0.0",
   "description": "Inject css rules in js/ts/react.",
   "main": "index.js",
